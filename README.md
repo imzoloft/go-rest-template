@@ -5,7 +5,7 @@
 ---
 
 <p>
-    <img src="https://miro.medium.com/v2/resize:fit:1358/0*1xZszp_OqUMrfRsV.png" alt="preview" width="200px"/><br/>
+    <img src="https://miro.medium.com/v2/resize:fit:1358/0*1xZszp_OqUMrfRsV.png" alt="preview" width="300px"/><br/>
 </p>
 
 ---
